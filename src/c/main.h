@@ -1,7 +1,5 @@
 #pragma once
 #include <pebble.h>
-#include "main.c"
-
 #define SETTINGS_KEY 1
 
 // A structure containing our settings
